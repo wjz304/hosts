@@ -1,5 +1,9 @@
-# hosts
+# hosts  
 
+## Note  
+每日自动更新 github 和 tinyMediaManager 的 IP 地址。  
+
+## Used  
 Windows/MacOS:  
 ```
 推荐使用下面 SwitchHosts, 官网查看：https://swh.app/zh
