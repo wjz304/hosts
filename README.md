@@ -1,5 +1,9 @@
 # hosts
 
+Windows/MacOS:  
+```
+推荐使用下面 SwitchHosts, 官网查看：https://swh.app/zh
+```
 Linux:
 ```
 # 删除
