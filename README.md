@@ -6,8 +6,10 @@
 ## Used  
 Windows/MacOS:  
 ```
-推荐使用下面 SwitchHosts, 官网查看：https://swh.app/zh
+推荐使用 SwitchHosts, 官网查看：https://swh.app/zh
 ```
+![image](https://user-images.githubusercontent.com/5615843/187586697-201b444c-1a3b-486a-867d-5fff9e63a4b2.png)
+
 Linux:
 ```
 # 删除
