@@ -3,10 +3,10 @@
 ## Note  
 每日自动更新 github 和 tinyMediaManager 的 IP 地址。  
 
-hosts Url: 
-Raw Url: https://raw.githubusercontent.com/wjz304/hosts/main/hosts
-CDN Url: https://gcore.jsdelivr.net/gh/wjz304/hosts@main/hosts
-CDN Url: https://cdn.staticaly.com/gh/wjz304/hosts/main/hosts    (推荐)
+hosts Url:   
+Raw Url: https://raw.githubusercontent.com/wjz304/hosts/main/hosts  
+CDN Url: https://gcore.jsdelivr.net/gh/wjz304/hosts@main/hosts  
+CDN Url: https://cdn.staticaly.com/gh/wjz304/hosts/main/hosts    (推荐)  
 
 ## Used  
 Windows/MacOS:  
