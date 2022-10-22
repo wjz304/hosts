@@ -1,7 +1,7 @@
 # hosts  
 
 ## Note  
-每日自动更新 github 和 tinyMediaManager 的 IP 地址。  
+每日自动更新 github, docker 和 tinyMediaManager 的 IP 地址。  
 
 hosts Url:   
 Raw Url: https://raw.githubusercontent.com/wjz304/hosts/main/hosts  
