@@ -3,58 +3,58 @@
 # CDN Url: https://gcore.jsdelivr.net/gh/wjz304/hosts@main/hosts
 # CDN Url: https://cdn.staticaly.com/gh/wjz304/hosts/main/hosts
 # DNS Servers: Aliyun Computing Co. Ltd
-# Update at: 2023-07-16 20:30:47
+# Update at: 2023-07-17 02:19:05
 # GitHub Hosts Start
-185.199.110.153 github.io
+185.199.111.153 github.io
 140.82.121.3    github.com
-140.82.113.18   github.community
-140.82.121.5    api.github.com
-140.82.121.4    gist.github.com
+140.82.114.18   github.community
+140.82.121.6    api.github.com
+140.82.121.3    gist.github.com
 140.82.121.9    codeload.github.com
 140.82.114.21   central.github.com
-140.82.114.22   collector.github.com
+140.82.113.22   collector.github.com
 185.199.111.133 raw.github.com
 185.199.109.154 docs.github.com
-185.199.109.153 assets-cdn.github.com
-185.199.111.133 raw.githubusercontent.com
+185.199.108.153 assets-cdn.github.com
+185.199.110.133 raw.githubusercontent.com
 185.199.111.133 camo.githubusercontent.com
-185.199.108.133 media.githubusercontent.com
+185.199.111.133 media.githubusercontent.com
 185.199.108.133 desktop.githubusercontent.com
-185.199.110.133 objects.githubusercontent.com
+185.199.108.133 objects.githubusercontent.com
 185.199.111.133 favicons.githubusercontent.com
-185.199.108.133 avatars5.githubusercontent.com
-185.199.109.133 avatars4.githubusercontent.com
-185.199.111.133 avatars3.githubusercontent.com
-185.199.108.133 avatars2.githubusercontent.com
-185.199.110.133 avatars1.githubusercontent.com
-185.199.110.133 avatars0.githubusercontent.com
+185.199.111.133 avatars5.githubusercontent.com
+185.199.110.133 avatars4.githubusercontent.com
+185.199.108.133 avatars3.githubusercontent.com
+185.199.110.133 avatars2.githubusercontent.com
+185.199.111.133 avatars1.githubusercontent.com
+185.199.108.133 avatars0.githubusercontent.com
 185.199.108.133 avatars.githubusercontent.com
 185.199.111.133 user-images.githubusercontent.com
 20.221.80.166   copilot-proxy.githubusercontent.com
 13.107.42.16    pipelines.actions.githubusercontent.com
-185.199.111.153 githubstatus.com
+185.199.109.153 githubstatus.com
 185.199.111.154 github.githubassets.com
-185.199.110.133 github.map.fastly.net
+185.199.109.133 github.map.fastly.net
 151.101.153.194 github.global.ssl.fastly.net
-52.216.240.236  github-cloud.s3.amazonaws.com
-52.217.227.65   github-com.s3.amazonaws.com
-52.217.47.108   github-production-release-asset-2e65be.s3.amazonaws.com
-3.5.29.47       github-production-user-asset-6210df.s3.amazonaws.com
-52.216.208.17   github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.216.130.139  github-cloud.s3.amazonaws.com
+52.216.207.43   github-com.s3.amazonaws.com
+3.5.27.119      github-production-release-asset-2e65be.s3.amazonaws.com
+52.217.106.244  github-production-user-asset-6210df.s3.amazonaws.com
+54.231.138.89   github-production-repository-file-5c1aeb.s3.amazonaws.com
 # GitHub Hosts End
 # Docker Hosts Start
 3.228.146.75    hub.docker.com
 140.82.121.34   ghcr.io
 142.250.27.82   gcr.io
 142.250.102.82  k8s.gcr.io
-34.238.89.100   quay.io
+54.83.238.202   quay.io
 # Docker Hosts End
 # TMM Hosts Start
-99.84.191.117   themoviedb.org
-18.160.41.115   www.themoviedb.org
-18.160.41.96    api.themoviedb.org
-18.160.10.85    tmdb.org
-18.160.41.31    api.tmdb.org
-89.187.169.3    image.tmdb.org
+18.160.41.75    themoviedb.org
+18.160.41.75    www.themoviedb.org
+52.85.151.48    api.themoviedb.org
+18.160.10.4     tmdb.org
+18.160.41.88    api.tmdb.org
+169.150.247.40  image.tmdb.org
 # TMM Hosts End
 # ING Hosts End
